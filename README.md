@@ -134,18 +134,18 @@ california-housing-mlp
 ```
 
 ## How to Run
-1. **Clone the repository**
+1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/california-housing-mlp.git
    cd california-housing-mlp
    ```
-2. **Create and activate a new environment**
+2. **Create and activate a new environment:**
    ```
    conda create -n housing-mlp python=3.11`
    conda activate housing-mlp
    ```
-4. **Install dependencies**
+4. **Install dependencies:**
    `pip install numpy pandas matplotlib seaborn scipy scikit-learn`
-5. **Run the notebook**
+5. **Run the notebook:**
    `jupyter notebook`
-6. **Then open `california_housing_mlp.ipynb` and run all cells.**
+6. **Then open `california_housing_mlp.ipynb` and run all cells.** The dataset is read as CSV in the first cell of the notebook.
