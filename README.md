@@ -22,20 +22,20 @@ The random forest model outperformed the linear model by quite a margin, which l
 - Boxplots for all features to spot outliers  
 - Correlation matrix to check feature relationships
 
-### Preprocessing
+### Preprocessing:
 - •	Impute the missing values with the median of the column  
 - •	One-hot encoding for `ocean_proximity`  
 - Random 80/20 train-test split  
 - `StandardScaler` to normalise both features **and** target
 
-### Hyperparameter Tuning
+### Hyperparameter Tuning:
 - Tested **48 total configurations**  
   - 6 hidden layer structures  
   - 2 activation functions (`relu`, `tanh`)  
   - 4 learning rates (`0.0001`, `0.001`, `0.01`, `0.1`)  
 - Implemented **5-fold cross-validation manually**
 
-### Best Configuration
+### Best Configuration:
 - Hidden layer sizes: **(100, 50, 25)**  
 - Activation function: **0.001**  
 - Learning rate: **tanh**
