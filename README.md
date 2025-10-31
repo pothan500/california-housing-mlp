@@ -17,11 +17,6 @@ The random forest model outperformed the linear model by quite a margin, which l
 - 207 missing values in `total_bedrooms`  
 - High correlation between some features  
 
-Loaded directly using:  
-```python
-from sklearn.datasets import fetch_california_housing
-```
-
 ## Method
 ### Exploratory Data Analysis:
 - Histogram of target variable  
