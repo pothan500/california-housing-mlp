@@ -14,8 +14,7 @@ The random forest model outperformed the linear model by quite a margin, which l
 - 20,640 samples  
 - 8 features  
 - Target variable: `median_house_value`  
-- 207 missing values in `total_bedrooms`  
-- High correlation between some features  
+- Challenge: 207 missing values in `total_bedrooms`, extremely high correlation between some features  
 
 ## Method
 ### Exploratory Data Analysis:
