@@ -148,4 +148,4 @@ california-housing-mlp
    `pip install numpy pandas matplotlib seaborn scipy scikit-learn`
 5. **Run the notebook:**
    `jupyter notebook`
-6. **Then open `california_housing_mlp.ipynb` and run all cells.** The dataset is read as CSV in the first cell of the notebook.
+6. **Then open `CaliforniaHousePricePredictor.ipynb` and run all cells.** The dataset is read as CSV in the first cell of the notebook.
