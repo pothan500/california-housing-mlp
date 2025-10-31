@@ -47,11 +47,10 @@ The random forest model outperformed the linear model by quite a margin, which l
 | my MLP            | 0.78 |
 | Random Forest     | 0.81 |
 
-**MSE:2913470848.540982**
+**MSE:2913470848.540982**  
 **RMSE: $53976.58**
 
-**Key finding:**  
-My neural network beat the Linear Regression model by **11 percentage points**, but fell just **3 points short of Random Forest**.
+**Key finding:** My neural network beat the Linear Regression model by **11 percentage points**, but fell just **3 points short of Random Forest**.
 
 ## Challenges I Encountered
 ### Understanding when to encode categorical variables  
