@@ -97,6 +97,7 @@ NNs, on the other hand, can cope with non-linearity because of activation functi
 1. **Hyperparameter Tuning**  
    - NeuralNine used GridSearch which tested 100s more combinations than I did and optimised for Random Forest specifically. 
    - I manually implemented hyperparameter search and that too, only tested 48 combinations.  
+
 With more thorough hyperparameter tuning, my MLP may have gained a couple R² points, maybe matching or even beating Random Forest.  
 
 2. **Algorithm Suitability**  
