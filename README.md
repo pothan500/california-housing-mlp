@@ -7,7 +7,7 @@ I’m currently studying computer science at university, where I’m taking a Ma
 After learning about neural networks in class, I was fascinated by the maths behind them and how they could identify complex non-linear relationships in data. However, lectures and coursework only go so far, I wanted to apply them to a real-word problem.
 
 I came across NeuralNine’s YouTube video titled “House Price Prediction in Python - Full Machine Learning Project”. He trained two models where Linear Regression achieved **R2 = 0.67** and Random Forest achieved **R2 = 0.81**.  
-The random forest model outperformed the linear model by quite a margin, which left me wondering well could a neural network do and if it could it do better? 
+The random forest model outperformed the linear model by quite a margin, which left me wondering how well could a neural network do and if it could it do better? 
 
 ## Dataset
 **California Housing Dataset** (1990 Census)  
