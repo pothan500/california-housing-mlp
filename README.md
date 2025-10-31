@@ -23,10 +23,10 @@ The random forest model outperformed the linear model by quite a margin, which l
 - Correlation matrix to check feature relationships
 
 ### Preprocessing
-- Imputed missing values using column medians  
-- One-hot encoded `ocean_proximity`  
+- •	Impute the missing values with the median of the column  
+- •	One-hot encoding for `ocean_proximity`  
 - Random 80/20 train-test split  
-- Standardised both features **and** target using `StandardScaler`
+- `StandardScaler` to normalise both features **and** target
 
 ### Hyperparameter Tuning
 - Tested **48 total configurations**  
@@ -51,7 +51,7 @@ The random forest model outperformed the linear model by quite a margin, which l
 **RMSE: $53976.58**
 
 **Key finding:**  
-My neural network outperformed the Linear Regression model by about **11 percentage points**, but fell around **3 points short of Random Forest.**
+My neural network beat the Linear Regression model by **11 percentage points**, but fell just **3 points short of Random Forest**.
 
 ## Challenges I Encountered
 ### Understanding when to encode categorical variables  
