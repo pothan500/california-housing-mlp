@@ -44,7 +44,7 @@ The random forest model outperformed the linear model by quite a margin, which l
 |       Model       |  R²  | 
 |-------------------|------|
 | Linear Regression | 0.67 |
-| MLP (mine)        | 0.78 |
+| my MLP            | 0.78 |
 | Random Forest     | 0.81 |
 
 **MSE:2913470848.540982**
