@@ -3,7 +3,7 @@
 **Can a Multi-Layer Perceptron beat Random Forest and Linear Regression at predicting house prices?**
 
 ## Motivation
-I’m currently studying computer science at the University of Nottingham, where I’m taking a Machine Learning module. My lecturer’s engaging teaching really got me interested in the topic. ML seemed a little daunting at first but the way he explained complex concepts made everything click and genuinely interesting.   
+I’m currently studying computer science at university, where I’m taking a Machine Learning module. My lecturer’s engaging teaching really got me interested in the topic. ML seemed a little daunting at first but the way he explained complex concepts made everything click and genuinely interesting.   
 After learning about neural networks in class, I was fascinated by the maths behind them and how they could identify complex non-linear relationships in data. However, lectures and coursework only go so far, I wanted to apply them to a real-word problem.
 
 I came across NeuralNine’s YouTube video titled “House Price Prediction in Python - Full Machine Learning Project”. He trained two models where Linear Regression achieved **R2 = 0.67** and Random Forest achieved **R2 = 0.81**.  
