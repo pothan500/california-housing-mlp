@@ -141,8 +141,8 @@ california-housing-mlp
    ```
 2. **Create and activate a new environment:**
    ```
-   conda create -n housing-mlp python=3.11`
-   conda activate housing-mlp
+   conda create -n house-price-predictor-mlp python=3.11`
+   conda activate house-price-predictor-mlp
    ```
 4. **Install dependencies:**
    `pip install numpy pandas matplotlib seaborn scipy scikit-learn`
