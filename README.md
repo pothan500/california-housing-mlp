@@ -128,7 +128,7 @@ With more thorough hyperparameter tuning, my MLP may have gained a couple R² po
 ## Project Structure
 ```
 california-housing-mlp
- ├── california_housing_mlp.ipynb      ← main notebook (complete workflow)
+ ├── california_housing_mlp.ipynb      ← main notebook
  ├── housing.csv                       ← dataset
  ├── README.md                         ← documentation
 ```
